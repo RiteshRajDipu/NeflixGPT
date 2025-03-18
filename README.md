@@ -2,7 +2,10 @@
 ...
 # Netflix GPT
 
--configured tailwind css
+- configured tailwind css
+- Header
+- Login Form
+- Sign Up Form
 
 ...
 # Features

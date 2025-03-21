@@ -24,6 +24,7 @@
 - Create a movie slice and update the store with the data
 - Imbeded the YouTube video and make it auto play and mute 
 - Tailwind css to make component awesome
+- Build Secondary Conatiner
 
 ...
 # Features

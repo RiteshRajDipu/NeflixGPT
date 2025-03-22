@@ -25,6 +25,12 @@
 - Imbeded the YouTube video and make it auto play and mute 
 - Tailwind css to make component awesome
 - Build Secondary Conatiner
+- Build Movie List
+- Build Movie Card
+- TMDB Image CDN URL
+- custom hooks: popular movie, upcoming movie
+- GPT Search bar page
+- Added multi languange options
 
 ...
 # Features
